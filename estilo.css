@@ -1,0 +1,39 @@
+body {
+    height: 470vh;
+   background: linear-gradient(
+    rgb(129, 75, 12),
+    rgb(138, 51, 17),
+    rgb(114, 89, 8)
+   ) ;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    text-shadow: 0px 0px 6px #fff;
+}
+
+p {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p:hover {
+    color: #fff;
+    text-shadow: 0px 0px 10px #fff;
+}
+
+
+
+
+
+
+
+
+
